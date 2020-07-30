@@ -1,0 +1,56 @@
+/**index.wxss**/
+
+page{
+  width: 100%;
+  height: 100%;
+  
+}
+.lkoginCon{
+  width: 80%;
+  height: 200rpx;
+  margin: 50rpx auto;
+}
+.passSet{
+  width: 80%;
+  height: 200rpx;
+  margin: 20rpx auto;
+}
+.user{
+  border-bottom: 2px solid #D4D4D4;
+  margin-top: 30rpx;
+  color: #ABABAB;
+  font-weight: 800;
+}
+.loginIcon{
+  width: 50rpx;
+  height: 50rpx;
+  position: relative;
+  top: -60rpx;
+}
+.placeholder {
+ padding-left:60rpx;
+}
+.passSet{
+  margin-top:40rpx;
+}
+.jzpass{
+  float: left;
+}
+.other{
+  float: right;
+  color: #119EE1;
+}
+.other text:nth-child(1){
+  margin-right: 20rpx;
+}
+.loginBtn{
+  width:80%;
+  margin: -100rpx auto;
+  height: 100rpx;
+  text-align: center;
+  line-height: 100rpx;
+  background-color: #119EE1;
+  color: #fff;
+  border-radius: 50rpx;
+}
+
